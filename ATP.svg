@@ -1,0 +1,19 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Phosphorous</title>
+ <g>
+  <title>Layer 1</title>
+
+  <!-- <circle r="65.776" cy="131.5" cx="555" stroke-width="5" stroke="#000000" fill="#ff0000" id="svg_1"/>
+  <text xml:space="preserve" y="139" x="491" transform="matrix(3.37352 0 0 3.35507 -1100.41 -302.179)" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-size="24" font-family="Arial" id="svg_2">P</text> -->
+  <circle r="65.776" cy="132.5" cx="256" stroke-width="5" stroke="#000000" fill="#ff0000" id="svg_6"/><!-- 
+  <circle r="65.776" cy="132.5" cx="408" stroke-width="5" stroke="#000000" fill="#ff0000" id="svg_7"/> -->
+ <!--  <text xml:space="preserve" y="138.0849" x="461.6523" transform="matrix(3.37352 0 0 3.35507 -1144.41 -301.179)" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-size="24" font-family="Arial" id="svg_5">P</text> -->
+  <text xml:space="preserve" y="138.383" x="416.299" transform="matrix(3.37352 0 0 3.35507 -1144.41 -301.179)" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-size="24" font-family="Arial" id="svg_4">P</text>
+  <line y2="137" x2="341" y1="137" x1="325" stroke-width="5" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="none" id="svg_8"/>
+  <line y2="135" x2="489" y1="135" x1="477" stroke-width="5" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="none" id="svg_9"/>
+  <circle r="135.148" cy="338" cx="147" stroke-width="5" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#0000ff" id="svg_10"/>
+  <line y2="218" x2="213" y1="192" x1="225" stroke-width="5" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="none" id="svg_11"/>
+  <text xml:space="preserve" y="337" x="76" transform="matrix(2.26058 0 0 3.89855 -23.3039 -942.826)" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-size="24" font-family="Arial" id="svg_12">Adenosine</text>
+ </g>
+</svg>
